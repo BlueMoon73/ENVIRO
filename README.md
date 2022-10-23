@@ -13,7 +13,7 @@ ENVIRO currently has 2 algorithms,
       - The physical compoenent of OCTOPAS, which acts based off of the output from the algorithm. 
       
   ## CRROW
-    -  Catastrophe Relief via Recognition of Obstacle Whereabouts
+   -  Catastrophe Relief via Recognition of Obstacle Whereabouts
     - Deisgned to be used in case of various environmental catastrophes
       - The algorithm identifies any walkways 
       - Then it finds any significant obstacles in the pathway
